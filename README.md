@@ -1,0 +1,1 @@
+A ideia do projeto é desenvolver o conhecimento em java. Nesse processo o arquivo MeuPrimeiroProjeto terá varios comentários com testes de exercicios propostos do Desbravando_Java_e_Orientação_a_Objetos_Um_guia_para_o_iniciante do Rodrigo Turini
